@@ -1,7 +1,7 @@
 
 git命令符
 >>git clone url
->>type nul > XX.txt
+>>type nul > XX.txt(用于测试时)
 >>git init
 >>git add .
 >>git commit -m "update"
