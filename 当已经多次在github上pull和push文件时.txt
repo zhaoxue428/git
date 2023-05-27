@@ -1,5 +1,5 @@
-
 git命令符
+##pull&&push from github
 >>git clone url
 >>type nul > XX.txt(用于测试时)
 >>git init
