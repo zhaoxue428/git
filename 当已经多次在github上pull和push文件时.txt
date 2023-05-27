@@ -1,0 +1,8 @@
+
+git命令符
+>>git clone url
+>>type nul > XX.txt
+>>git init
+>>git add .
+>>git commit -m "update"
+>>git push
